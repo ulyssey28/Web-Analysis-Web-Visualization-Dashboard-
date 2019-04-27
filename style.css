@@ -1,48 +1,26 @@
 body {
     background-color: lightblue;
-    margin: 20px
 }   
 
-#main-title{
-    font-size: 20px;
-}
-.container {
-    background-color: beige;
-    padding: 20px;
 
-}
-
-#main-nav{
-    width: 100%;
-}
-
-aside img{
-    width: 50%;
-    height: 50%;
-}
 
 #sum-img{
     float: left;
     width: 50%;
 }
 
-#Viss {
+/* .left-pad{
+    margin-right: 0px;
+} */
 
-    margin-bottom: 100px;
-    margin-top: 20px;
+.right-side{
+    height: 90%;
 }
+/* .container{
+    margin-left: 50px;
+    margin-right: 0;
+} */
 
-
-#foot {
-    text-align: center;
+.space {
+    margin: 200px;
 }
-
-.header {
-    background-image: url(../Images/weather.jpg)
-
-}
-
-
-#nav-row{
-}
-
